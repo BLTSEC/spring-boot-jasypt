@@ -1,5 +1,5 @@
 # spring-boot-jasypt
 
-https://www6.acu.edu/confluence/display/cs/Spring+Boot+-+Encrypting+Externalized+Properties
+Blog Post: https://bltsec.ninja/2017/12/05/programming-spring-boot/
 
 Spring Boot app that uses Jasypt for encrypting externalized properties.
